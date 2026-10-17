@@ -1,30 +1,13 @@
 \#drivHus
+Dette er lite prosjekt for å lage en monitor boks som 
+overvåker drivhus og sender data til pc i første omgang.
 
+Data som overvåkes er
+-  Temperatur
+-  Luftfuktighet
+-  Lufttrykk
+-  Vibrasjon
+-  Vinkel (for å se om vind bøyer vindu)
+-  ++
 
-
-En kort beskrivelse av hva dette prosjektet gjør.
-
-
-
-\## Installasjon
-
-Hvordan man installerer prosjektet:
-
-```bash
-
-npm install
-
-```
-
-
-
-\## Bruk
-
-Hvordan man bruker prosjektet:
-
-```bash
-
-npm start
-
-```
-
+  
